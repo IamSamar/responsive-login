@@ -1,3 +1,21 @@
+# When Downloaded from github follow these steps
+
+1) Clone the branch or download the code
+2) go in the directory and run command 
+# `npm install` 
+
+3) Once install run
+# `npm start`
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
